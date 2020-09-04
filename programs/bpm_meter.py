@@ -1,5 +1,4 @@
 from pynput.keyboard import Listener, Key
-from threading import Thread
 import time
 
 keys = "zx"  # keys that can trigger reporting, let's say they are the keys that you hit when playing osu!
